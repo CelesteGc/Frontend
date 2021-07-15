@@ -1,0 +1,30 @@
+
+.seccion-centrado{
+    margin: 0 auto;
+    width: 70%;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    ;
+}
+
+.img {
+    background-color: #E5E5E5;
+    text-align: center
+    ;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color:#005677;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+footer {
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    ;
+}
